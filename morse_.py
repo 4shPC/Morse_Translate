@@ -17,4 +17,4 @@ def morse(s):
     return morse
 
 if __name__ == '__main__':
-    print(f'{ s } : \n{ " ".join(morse(s)) }')
+    print(f'\n{ s } : \n{ " ".join(morse(s)) }\n')
